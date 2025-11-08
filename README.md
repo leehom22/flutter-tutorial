@@ -1,4 +1,4 @@
-# [Flutter tutorial from](https://youtu.be/3kaGC_DrUnw?si=3whR13RsaBljOKug) 
+# [Flutter tutorial for begineer](https://youtu.be/3kaGC_DrUnw?si=3whR13RsaBljOKug) 
 
 A new Flutter project.
 
